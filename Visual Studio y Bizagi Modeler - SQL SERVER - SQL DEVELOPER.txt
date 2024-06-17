@@ -1,0 +1,47 @@
+Credenciales Visual Studio Community 2022 y Bizagi Modeler
+-----------------------------------
+Sede San Joaquin - Escuela de informática y telecomunicaciones
+
+  ____                   _   _  ____ 
+ |  _ \ _   _  ___   ___| | | |/ ___|
+ | | | | | | |/ _ \ / __| | | | |    
+ | |_| | |_| | (_) | (__| |_| | |___ 
+ |____/ \__,_|\___/ \___|\___/ \____|
+ 				   Sede San Joaquin
+
+Documento de Credenciales - Software 2022
+
+
+|----------------------------------------|	
+|    Software Particion Informatica	 |	
+|----------------------------------------|			
+|    Visual Studio Community 2019	 |	
+|----------------------------------------|	
+|		                         |	
+| Usuario:  sj.visualstudio@hotmail.com	 |	
+| Contraseña: 	sjq.2019        	 |	
+|					 |	
+|----------------------------------------|	
+| 	     Bizagi Modeler              |	
+|----------------------------------------|	
+|					 |	
+| Usuario:  sj.visualstudio@hotmail.com	 |	
+| Contraseña	: 	Sjq.2022	 |	
+| 		 			 |	
+|________________________________________|
+|----------------------------------------|	
+| 	     SQL DEVELOPER               |	
+|----------------------------------------|	
+|					 |	
+| Usuario:  sys     			 |	
+| Contraseña	: 	sys		 |	
+| 		 			 |	
+|________________________________________|	
+|----------------------------------------|	
+| 	     MICROSOFT SQL SERVER        |	
+|----------------------------------------|	
+| Server Name: "Nombre del equipo" 	 |	
+| Usuario:  sa     			 |	
+| Contraseña	: 	admin123	 |	
+| 		 			 |	
+|________________________________________|	

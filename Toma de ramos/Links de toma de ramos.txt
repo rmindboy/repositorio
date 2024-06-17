@@ -1,0 +1,21 @@
+Página general
+https://inscripciones.duoc.cl/IA/
+
+Página de inscripciones
+https://inscripcioneslab.duoc.cl/inscripciones/
+
+Página de contingencia
+https://portalinscint.duoc.cl/webdynpro/dispatcher/duoc.com.student/sicol/StudentSicol?inportal=xi
+
+----------------------------------------------------------------------------------------------------------
+Bloqueo cuenta de alumno
+
+Como parte del modelo de seguridad de DuocUC, las claves de acceso de los alumnos se bloquean
+luego del 6to intento fallido de conexión, en caso de ocurrir esta situación, se presentará al usuario el
+siguiente mensaje:
+“La autentificación ha fallado. Clave de acceso bloqueada” La cuenta se desbloquea AUTOMÁTICAMENTE pasado cinco minutos desde el inicio del bloqueo, no
+se debe tomar ninguna acción o pedir soporte, sólo esperar el desbloqueo en el tiempo especificado.
+
+
+Cambio de clave
+https://cambiatuclave.duoc.cl

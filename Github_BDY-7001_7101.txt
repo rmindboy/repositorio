@@ -1,0 +1,3 @@
+https://github.com/juliopez/Hadoop
+
+No instalar en PC solo dejar el .TXT en el escritorio de Windows (BDY7001-7101)
